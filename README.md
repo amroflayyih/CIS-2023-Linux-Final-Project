@@ -31,3 +31,6 @@ There is a Program_Documentation.docx that contains full project documentation.
 
 ## Github Repository
 https://github.com/amroflayyih/CIS-2023-Linux-Final-Project
+
+## Screenshots
+Find them in the Screenshots.zip Folder
