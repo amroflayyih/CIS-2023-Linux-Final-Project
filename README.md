@@ -8,10 +8,18 @@ This project includes a simple Bash script that prints numbers from 1 to 50 usin
 ```bash
 chmod +x number_counter.sh
 ```
+or 
+```bash
+chmod +x number_counter.txt
+```
 
 2. Run the script:
 ```bash
 ./number_counter.sh
+```
+or
+```bash
+./number_counter.txt
 ```
 
 ## Notes
