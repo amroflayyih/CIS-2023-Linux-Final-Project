@@ -24,3 +24,10 @@ or
 
 ## Notes
 This project was completed entirely using the Linux terminal, GitHub, and Bash scripting.
+The project demonstrates basic Git repository management and Bash scripting skills by creating a script that prints numbers from 1 to 50 using a loop in the terminal.
+
+## Documentation
+There is a Program_Documentation.docx that contains full project documentation.
+
+## Github Repository
+https://github.com/amroflayyih/CIS-2023-Linux-Final-Project
