@@ -5,7 +5,9 @@ This project includes a simple Bash script that prints numbers from 1 to 50 usin
 
 ## How to Run
 1. Make the script executable:
+```bash
 chmod +x number_counter.sh
+```
 
 2. Run the script:
 ```bash
