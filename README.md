@@ -8,7 +8,9 @@ This project includes a simple Bash script that prints numbers from 1 to 50 usin
 chmod +x number_counter.sh
 
 2. Run the script:
+```bash
 ./number_counter.sh
+```
 
 ## Notes
 This project was completed entirely using the Linux terminal, GitHub, and Bash scripting.
